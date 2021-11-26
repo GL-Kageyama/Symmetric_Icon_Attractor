@@ -11,5 +11,5 @@ Y <- d * X + imgZ * Y - c * imgY
 ## YouTube
 https://www.youtube.com/watch?v=jJXn5HZPChI
 
-# Image Sample
+## Image Sample
 ![Sample1](https://user-images.githubusercontent.com/36861752/85934737-5425a000-b922-11ea-953a-c980fad09958.png)
